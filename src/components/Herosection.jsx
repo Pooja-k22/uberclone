@@ -44,7 +44,7 @@ function Herosection() {
             <h1 className=" fw-bolder mb-3  head">
               Request a ride for now or later
             </h1>
-            <p className="mb-4">Add your trip details, hop in, and go.</p>
+            <p className="mb-4">Add your trip details, hope in, and go.</p>
 
             {/* Location Input */}
             <InputGroup className="mb-3 custom-input rounded-3">
