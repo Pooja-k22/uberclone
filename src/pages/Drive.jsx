@@ -7,7 +7,7 @@ import { faCalendarWeek } from "@fortawesome/free-solid-svg-icons/faCalendarWeek
 import { faMoneyCheck } from "@fortawesome/free-solid-svg-icons/faMoneyCheck";
 import Card from "react-bootstrap/Card";
 import support from '../assets/24_7-Support.svg'
-import safety from '../assets/Safety-center.svg'
+import safety from '../assets/Safety-Center.svg'
 import commmunity from '../assets/Community-Guidelines.svg'
 
 
