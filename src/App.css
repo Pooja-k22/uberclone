@@ -1,0 +1,74 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-items{
+    color: white;
+}
+.custom-input,.bg-clr{
+    background-color: rgb(236, 236, 236);
+}
+.bg-clr{
+    background-color: rgb(236, 236, 236) !important
+}
+.head{
+    font-size: 50px !important;
+}
+
+.sug{
+    font-size: 16px;
+}
+.sug-p{
+    font-size: 12px;
+}
+.sec-3-bg{
+    background-color: rgb(157, 205, 214);
+}
+.sec-3-img{
+    background-image: url(https://www.uber-assets.com/image/upload/v1709643470/assets/51/52cc71-a5b0-4fbd-aeb8-bee896efcd48/original/image-9.png);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.sec-4-img{
+    background-image: url(https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,h_621,w_1104/v1683576635/assets/f7/7aa380-a378-47bf-8b88-aaba1587efdd/original/landing-stops-group-rides.png);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 300px;
+
+}
+
+
+  .learn-btn:hover {
+    border-bottom-width: 2px;
+    border-color: black;
+  }
+
+  /* section 4 */
+  .custom-btn {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(254, 254, 254); /* Only bottom border */
+    padding: 5px 0px;
+    font-weight: bold;
+    transition: border-color 0.3s ease-in-out;
+  }
+
+  .custom-btn:hover {
+    border-bottom: 2px solid #949494;
+  }
+  
+
+  /* last sec */
+  .last-bg{
+    background-color: rgb(238, 238, 238);
+    margin-top: 80px !important;
+  }
+  /* footer */
+  .foot{
+    font-size: 14px;
+    color: #d7d7d7;
+  }
